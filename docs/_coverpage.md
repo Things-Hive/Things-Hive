@@ -1,15 +1,24 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![logo](_media/logo.png)
 
-# docsify <small>3.5</small>
+# Things Hive 
+
+[comment]: <> (<small>3.5</small>)
+[comment]: <> (### Bee  ![CMake]&#40;https://github.com/galalmounir/sandboxer/workflows/CMake/badge.svg?branch=master&#41;)
+
+> Democratizing IoT Development
+
 [![Gitter](https://badges.gitter.im/Things-Hive/community.svg)](https://gitter.im/Things-Hive/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-### Bee  ![CMake](https://github.com/galalmounir/sandboxer/workflows/CMake/badge.svg?branch=master)
-> A magical documentation site generator.
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Things-Hive?label=Sponsors)](https://github.com/sponsors/Things-Hive)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Things-Hive/Things-Hive?label=Latest%20Release)
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+![GitHub file size in bytes](https://img.shields.io/github/size/Things-Hive/Things-Hive/build/hive-rpi?label=RPi-Size)
+![GitHub file size in bytes](https://img.shields.io/github/size/Things-Hive/Things-Hive/build/hive-mac?label=MacOS-Size)
+- Platform Independent
+- Super Lightweight
+- Designed For Resource-Constrained IoT Devices
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+
+[Get Started](pages/getting-started.md)
+[About](pages/introduction.md)
