@@ -32,12 +32,12 @@ All values are in seconds.
         "numbers": true
     },
     "data": [
-        { "label": "C - ", "value": 0.01 },
-        { "label": "HIVE - ", "value": 0.0101 },
-        { "label": "Lua - ", "value": 0.0108 },
-        { "label": "mRuby - ", "value": 0.0127 },
+        { "label": "Python 3 - ", "value": 0.0465 },
         { "label": "uPython - ", "value": 0.0259 },
-        { "label": "Python 3 - ", "value": 0.0465 }
+        { "label": "mRuby - ", "value": 0.0127 },
+        { "label": "Lua - ", "value": 0.0108 },
+        { "label": "C - ", "value": 0.01 },
+        { "label": "HIVE - ", "value": 0.0101 }
     ]
 }
 ```
@@ -52,12 +52,12 @@ All values are in seconds.
         "numbers": true
     },
     "data": [
-        { "label": "C - ", "value": 0.0111 },
-        { "label": "HIVE - ", "value": 0.0112 },
-        { "label": "Lua - ", "value": 0.0122 },
-        { "label": "mRuby - ", "value": 0.0140 },
+        { "label": "Python 3 - ", "value": 0.0465 },
         { "label": "uPython - ", "value": 0.0275 },
-        { "label": "Python 3 - ", "value": 0.0465 }
+        { "label": "mRuby - ", "value": 0.0140 },
+        { "label": "Lua - ", "value": 0.0122 },
+        { "label": "C - ", "value": 0.0111 },
+        { "label": "HIVE - ", "value": 0.0112 }
     ]
 }
 ```
@@ -72,12 +72,12 @@ All values are in seconds.
         "numbers": true
     },
     "data": [
-        { "label": "C - ", "value": 1.08 },
-        { "label": "HIVE - ", "value": 10.22 },
-        { "label": "Lua - ", "value": 14.24 },
-        { "label": "mRuby - ", "value": 53.64 },
+        { "label": "Python 3 - ", "value": 27.42 },
         { "label": "uPython - ", "value": 46.14 },
-        { "label": "Python 3 - ", "value": 27.42 }
+        { "label": "mRuby - ", "value": 53.64 },
+        { "label": "Lua - ", "value": 14.24 },
+        { "label": "C - ", "value": 1.08 },
+        { "label": "HIVE - ", "value": 10.22 }
     ]
 }
 ```
@@ -94,12 +94,12 @@ All values are in KBs.
         "numbers": true
     },
     "data": [
-        { "label": "C - ", "value": 1.24 },
-        { "label": "HIVE - ", "value": 13.73 },
-        { "label": "Lua - ", "value": 125.76 },
-        { "label": "mRuby - ", "value": 693.94 },
+        { "label": "Python 3 - ", "value": 4248.99 },
         { "label": "uPython - ", "value": 304.97 },
-        { "label": "Python 3 - ", "value": 4248.99 }
+        { "label": "mRuby - ", "value": 693.94 },
+        { "label": "Lua - ", "value": 125.76 },
+        { "label": "C - ", "value": 1.24 },
+        { "label": "HIVE - ", "value": 13.73 }
     ]
 }
 ```
@@ -114,12 +114,12 @@ All values are in KBs.
         "numbers": true
     },
     "data": [
-        { "label": "C - ", "value": 1.54 },
-        { "label": "HIVE - ", "value": 14.42 },
-        { "label": "Lua - ", "value": 125.76 },
-        { "label": "mRuby - ", "value": 693.94 },
+        { "label": "Python 3 - ", "value": 4248.99 },
         { "label": "uPython - ", "value": 304.97 },
-        { "label": "Python 3 - ", "value": 4248.99 }
+        { "label": "mRuby - ", "value": 693.94 },
+        { "label": "Lua - ", "value": 125.76 },
+        { "label": "C - ", "value": 1.54 },
+        { "label": "HIVE - ", "value": 14.42 }
     ]
 }
 ```
@@ -134,12 +134,12 @@ All values are in KBs.
         "numbers": true
     },
     "data": [
-        { "label": "C - ", "value": 1.36 },
-        { "label": "HIVE - ", "value": 13.97 },
-        { "label": "Lua - ", "value": 125.76 },
-        { "label": "mRuby - ", "value": 693.94 },
+        { "label": "Python 3 - ", "value": 4248.99 },
         { "label": "uPython - ", "value": 304.97 },
-        { "label": "Python 3 - ", "value": 4248.99 }
+        { "label": "mRuby - ", "value": 693.94 },
+        { "label": "Lua - ", "value": 125.76 },
+        { "label": "C - ", "value": 1.36 },
+        { "label": "HIVE - ", "value": 13.97 }
     ]
 }
 ```
@@ -156,12 +156,12 @@ All values are in KBs.
         "numbers": true
     },
     "data": [
-        { "label": "C - ", "value": 1.34 },
-        { "label": "HIVE - ", "value": 3.52 },
-        { "label": "Lua - ", "value": 68.77 },
-        { "label": "mRuby - ", "value": 132.97 },
+        { "label": "Python 3 - ", "value": 365.48 },
         { "label": "uPython - ", "value": 29.10 },
-        { "label": "Python 3 - ", "value": 365.48 }
+        { "label": "mRuby - ", "value": 132.97 },
+        { "label": "Lua - ", "value": 68.77 },
+        { "label": "C - ", "value": 1.34 },
+        { "label": "HIVE - ", "value": 3.52 }
     ]
 }
 ```
@@ -176,12 +176,12 @@ All values are in KBs.
         "numbers": true
     },
     "data": [
-        { "label": "C - ", "value": 1.34 },
-        { "label": "HIVE - ", "value": 3.52 },
-        { "label": "Lua - ", "value": 68.77 },
-        { "label": "mRuby - ", "value": 132.97 },
+        { "label": "Python 3 - ", "value": 365.48 },
         { "label": "uPython - ", "value": 29.10 },
-        { "label": "Python 3 - ", "value": 365.48 }
+        { "label": "mRuby - ", "value": 132.97 },
+        { "label": "Lua - ", "value": 68.77 },
+        { "label": "C - ", "value": 1.34 },
+        { "label": "HIVE - ", "value": 3.52 }
     ]
 }
 ```
@@ -196,12 +196,12 @@ All values are in KBs.
         "numbers": true
     },
     "data": [
-        { "label": "C - ", "value": 1.00 },
-        { "label": "HIVE - ", "value": 1.39 },
-        { "label": "Lua - ", "value": 24.63 },
-        { "label": "mRuby - ", "value": 205.27 },
+        { "label": "Python 3 - ", "value": 360.91 },
         { "label": "uPython - ", "value": 1028.02 },
-        { "label": "Python 3 - ", "value": 360.91 }
+        { "label": "mRuby - ", "value": 205.27 },
+        { "label": "Lua - ", "value": 24.63 },
+        { "label": "C - ", "value": 1.00 },
+        { "label": "HIVE - ", "value": 1.39 }
     ]
 }
 ```

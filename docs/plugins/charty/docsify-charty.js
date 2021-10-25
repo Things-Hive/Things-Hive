@@ -800,7 +800,7 @@ function charty(hook, vm) {
                         group.appendChild(circleDataItem);
                     }); // add the donut hole
 
-                    legend.innerHTML += "<label> <b> Total </b>" + circleDataSum + "</label>"
+                    // legend.innerHTML += "<label> <b> Total </b>" + circleDataSum + "</label>"
 
                     if (chartyType === 'donut') {
                         // insert the hole mask
