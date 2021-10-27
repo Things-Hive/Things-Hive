@@ -124,13 +124,13 @@ _For more examples, please refer to the [Documentation](https://thingshive.io)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Publish Research Paper
-- [] Release Initial Open-Source Code
-    - [] Support for Raspberry Pi 4   
-    - [] Support for MSP432
-    - [] Support for ESP32
-    - [] Finalize Unit Tests
-- [] Coming Soon...
+- [ ] Publish Research Paper
+- [ ] Release Initial Open-Source Code
+    - [ ] Support for Raspberry Pi 4   
+    - [ ] Support for MSP432
+    - [ ] Support for ESP32
+    - [ ] Finalize Unit Tests
+- [ ] Coming Soon...
 
 See the [open issues](https://github.com/Things-Hive/Things-Hive/issues) for a full list of proposed features (and known issues).
 
