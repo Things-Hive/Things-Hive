@@ -1,25 +1,4 @@
 <div id="top"></div>
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![GPL-3.0 License][license-shield]][license-url]
-[![Gitter][gitter-shield]][gitter-url]
-[![GitHub Sponsors][sponsors-shield]][sponsors-url]
-![GitHub release (latest by date)][releases-shield]
-![GitHub file size in bytes][rpi-shield]
-![GitHub file size in bytes][macos-shield]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -27,14 +6,39 @@
     <img src="docs/_media/logo_128.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Things Hive</h3>
-
+  <h3 align="center">Things Hive</h3>
   <p align="center">
     Internet of Things <b>H</b>ardware <b>I</b>ndependent <b>V</b>irtual <b>E</b>ngine (HIVE) is a framework designed specifically for IoT platform development. 
     <br />
     <a href="https://thingshive.io"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
+    <!-- PROJECT SHIELDS -->
+    <p align="center">
+      <a href="https://github.com/Things-Hive/Things-Hive/graphs/contributors">
+        <img alt="Project Contributors" src="https://img.shields.io/github/contributors/Things-Hive/Things-Hive.svg">
+      </a>
+      <a href="https://github.com/Things-Hive/Things-Hive/network/members">
+        <img alt="Project Forks" src="https://img.shields.io/github/forks/Things-Hive/Things-Hive.svg">
+      </a>
+      <a href="https://github.com/Things-Hive/Things-Hive/stargazers">
+        <img alt="Stargazers" src="https://img.shields.io/github/stars/Things-Hive/Things-Hive.svg">
+      </a>
+      <a href="https://github.com/Things-Hive/Things-Hive/issues">
+        <img alt="Issues" src="https://img.shields.io/github/issues/Things-Hive/Things-Hive.svg">
+      </a>
+      <a href="https://github.com/Things-Hive/Things-Hive/blob/main/LICENSE">
+        <img alt="License" src="https://img.shields.io/github/license/Things-Hive/Things-Hive.svg">
+      </a>
+      <a href="https://gitter.im/Things-Hive/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
+        <img alt="Gitter" src="https://badges.gitter.im/Things-Hive/community.svg">
+      </a>
+      <a href="https://github.com/sponsors/Things-Hive">
+        <img alt="Project Sponsors" src="https://img.shields.io/github/sponsors/Things-Hive?label=Sponsors">
+      </a>
+      <a><img alt="Latest Release" src="https://img.shields.io/github/v/release/Things-Hive/Things-Hive?label=Latest%20Release"></a>
+      <a><img alt="RPi Size" src="https://img.shields.io/github/size/Things-Hive/Things-Hive/build/hive-rpi?label=RPi-Size"></a>
+      <a><img alt="macOS Size" src="https://img.shields.io/github/size/Things-Hive/Things-Hive/build/hive-mac?label=MacOS-Size"></a>
+    </p>
     <a>View Demo (Coming Soon)</a>
     ·
     <a href="https://github.com/Things-Hive/Things-Hive/issues">Report Bug</a>
@@ -178,22 +182,4 @@ Project Link: [https://github.com/Things-Hive/Things-Hive](https://github.com/Th
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Things-Hive/Things-Hive.svg
-[contributors-url]: https://github.com/Things-Hive/Things-Hive/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Things-Hive/Things-Hive.svg
-[forks-url]: https://github.com/Things-Hive/Things-Hive/network/members
-[stars-shield]: https://img.shields.io/github/stars/Things-Hive/Things-Hive.svg
-[stars-url]: https://github.com/Things-Hive/Things-Hive/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Things-Hive/Things-Hive.svg
-[issues-url]: https://github.com/Things-Hive/Things-Hive/issues
-[license-shield]: https://img.shields.io/github/license/Things-Hive/Things-Hive.svg
-[license-url]: https://github.com/Things-Hive/Things-Hive/blob/main/LICENSE
 [product-screenshot]: docs/_media/dev-journey.png
-
-[gitter-shield]: https://badges.gitter.im/Things-Hive/community.svg
-[gitter-url]: https://gitter.im/Things-Hive/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
-[sponsors-shield]: https://img.shields.io/github/sponsors/Things-Hive?label=Sponsors
-[sponsors-url]: https://github.com/sponsors/Things-Hive
-[releases-shield]: https://img.shields.io/github/v/release/Things-Hive/Things-Hive?label=Latest%20Release
-[rpi-shield]: https://img.shields.io/github/size/Things-Hive/Things-Hive/build/hive-rpi?label=RPi-Size
-[macos-shield]: https://img.shields.io/github/size/Things-Hive/Things-Hive/build/hive-mac?label=MacOS-Size
