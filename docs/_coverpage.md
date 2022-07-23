@@ -15,7 +15,7 @@
 
 ![GitHub file size in bytes](https://img.shields.io/github/size/Things-Hive/Things-Hive/build/hive-rpi?label=RPi-Size)
 ![GitHub file size in bytes](https://img.shields.io/github/size/Things-Hive/Things-Hive/build/hive-mac?label=MacOS-Size)
-- Platform Independent
+- Platform Agnostic
 - Super Lightweight
 - Designed For Resource-Constrained IoT Devices
 
